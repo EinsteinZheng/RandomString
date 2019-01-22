@@ -9,9 +9,6 @@
 
 #include<iostream>
 #include<random>
-#include <math.h>
-
-
 
 int main(int argc, const char * argv[]) {
     char *luanma;
